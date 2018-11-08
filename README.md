@@ -1,2 +1,2 @@
 # JavaScript
-JavaScript Applications
+JavaScript Practice files
